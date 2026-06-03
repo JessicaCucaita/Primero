@@ -1,5 +1,2 @@
-# Primero
-Mi primer repositorio
-Soy matemático egresada de la Universidad Pedagógica y Tecnológica de Colombia. Realicé la maestría en ciencias computacionales y telecomunicaciones en la Universidad Tecnologíca Latinoamericana en Línea y actualmente culmine mi formación en análisis de datos en Betek. Otros cursos que he realizo: Databricks Fundamentals: Databricks Fundamental en Databricks Academy el 2026, Fundamentos en Análisis de datos en Betek el 2026, Razonamiento numérico y crítico en Corporación Makaia el 2026, Gestión de datos en Excel en la Cámara de comercio y centro internacional el 2025, Análisis exploratorio para datos en Pyhton en el SENA el 2025, Algebra básica en Coursera el 2023, Metodología de la investigación en la Universidad Tecnológica Latinoamericana en Línea el 2022.
+Hemos trabajado en la logística y transporte de envíos como proyecto académico en la formación de analistas de datos. A continuación, mostramos nuestro trabajo realizado 
 
-Habilidades: Pensamiento analítico | Resolución de problemas | Comunicación efectiva | Toma de decisiones basada en datos | Atención al detalle  Adaptabilidad | Pensamiento lógico y resolución de problemas | Diseño de experiencias de aprendizaje | Comunicación efectiva de conceptos técnicos | Manejo de herramientas digitales educativas | Trabajo en equipo y liderazgo académico
